@@ -1,1 +1,1 @@
-# ZIP-Zero-Inflated-Poisson-
+# ZIP(Zero-Inflated Poisson)
